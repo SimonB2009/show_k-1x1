@@ -1,0 +1,15 @@
+/home/simon/Projects/Console/show_k_1x1/bin/Debug/net6.0/project
+/home/simon/Projects/Console/show_k_1x1/bin/Debug/net6.0/project.deps.json
+/home/simon/Projects/Console/show_k_1x1/bin/Debug/net6.0/project.runtimeconfig.json
+/home/simon/Projects/Console/show_k_1x1/bin/Debug/net6.0/project.dll
+/home/simon/Projects/Console/show_k_1x1/bin/Debug/net6.0/project.pdb
+/home/simon/Projects/Console/show_k_1x1/obj/Debug/net6.0/project.csproj.AssemblyReference.cache
+/home/simon/Projects/Console/show_k_1x1/obj/Debug/net6.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/home/simon/Projects/Console/show_k_1x1/obj/Debug/net6.0/project.AssemblyInfoInputs.cache
+/home/simon/Projects/Console/show_k_1x1/obj/Debug/net6.0/project.AssemblyInfo.cs
+/home/simon/Projects/Console/show_k_1x1/obj/Debug/net6.0/project.csproj.CoreCompileInputs.cache
+/home/simon/Projects/Console/show_k_1x1/obj/Debug/net6.0/project.dll
+/home/simon/Projects/Console/show_k_1x1/obj/Debug/net6.0/refint/project.dll
+/home/simon/Projects/Console/show_k_1x1/obj/Debug/net6.0/project.pdb
+/home/simon/Projects/Console/show_k_1x1/obj/Debug/net6.0/project.genruntimeconfig.cache
+/home/simon/Projects/Console/show_k_1x1/obj/Debug/net6.0/ref/project.dll
